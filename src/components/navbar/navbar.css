@@ -1,0 +1,30 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    /* margin: 0 auto; */
+    align-items: center;
+    height: 80px;
+}
+
+.menu_item ul {
+    display: flex;
+
+
+}
+
+.menu_item ul li {
+    padding: 0 15px;
+    cursor: pointer;
+}
+
+.button {
+    background-color: var(--red);
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.logo {
+    cursor: pointer;
+}
